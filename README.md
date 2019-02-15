@@ -1,6 +1,7 @@
 ### jimp
 ---
 https://github.com/oliver-moran/jimp
+https://github.com/oliver-moran/jimp/tree/master/packages/jimp
 
 ```js
 var Jimp = require('jimp');
